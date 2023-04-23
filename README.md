@@ -6,7 +6,7 @@ The use of synthetic data allows the development of more accurate ML models sinc
 Indeed,  it is hard to cover all the possible cases by simulations or by experiments. 
 The generation of synthetic data is based on the distance between the target and the attacker. 
 In practice, each vehicle periodically stores the distance between itself and neighboring vehicles. 
-Figure~\ref{fig:generate_data} illustrates the parameters used to generate the synthetic data: 
+The figure below illustrates the parameters used to generate the synthetic data: 
 - (i) the maximum communication range (CR); 
 - (ii) the Safety Distance (SD); 
 - (iii) the Caution Distance (CD), which is the distance that the attacker keeps avoiding visual detection by the target; 
@@ -30,3 +30,13 @@ in the attack-and-stop strategy, nr is the number of random attackers, ncl is th
 <p align="center">
   <img src="https://user-images.githubusercontent.com/6827382/233834242-d0b06b8b-fc2e-4033-9d79-11d92b325028.png"/>
 </p>
+
+For more information about the use of this dataset, please refer to the following publication:
+@article{boualouache2022federated,
+  title={Federated learning-based scheme for detecting passive mobile attackers in 5g vehicular edge computing},
+  author={Boualouache, Abdelwahab and Engel, Thomas},
+  journal={Annals of Telecommunications},
+  pages={1--20},
+  year={2022},
+  publisher={Springer}
+}
