@@ -34,11 +34,11 @@ in the attack-and-stop strategy, nr is the number of random attackers, ncl is th
 For more information about the use of this dataset, please refer to the following publication:
 
 
-@article{boualouache2022federated,
-  title={Federated learning-based scheme for detecting passive mobile attackers in 5g vehicular edge computing},
-  author={Boualouache, Abdelwahab and Engel, Thomas},
-  journal={Annals of Telecommunications},
-  pages={1--20},
-  year={2022},
-  publisher={Springer}
+@article{boualouache2022federated, <br />
+  title={Federated learning-based scheme for detecting passive mobile attackers in 5g vehicular edge computing}, <br />
+  author={Boualouache, Abdelwahab and Engel, Thomas}, <br />
+  journal={Annals of Telecommunications}, <br />
+  pages={1--20},<br />
+  year={2022}, <br />
+  publisher={Springer}<br />
 }
