@@ -31,6 +31,14 @@ in the attack-and-stop strategy, nr is the number of random attackers, ncl is th
   <img src="https://user-images.githubusercontent.com/6827382/233834242-d0b06b8b-fc2e-4033-9d79-11d92b325028.png"/>
 </p>
 
+The datasets included in this repository are generated based on the above algorithm using the parameters listed in the following table. By combining these parameters and considering 200 instances of each configuration, we have ended up generating 22000 rows.
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/6827382/233944520-fd83cdc1-3eb6-4e0b-a558-08153f349eb9.png"/>
+</p>
+
+
 For more information about the use of this dataset, please refer to the following publication:
 
 
